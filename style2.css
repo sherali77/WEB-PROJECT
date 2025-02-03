@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(pngtree-revolutionary-smart-home-control-experience-the-future-with-smartphone-integration-image_13549958.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    backdrop-filter: brightness(0.3);
+    font-family: "Poppins", "sans-seirf";
+}
+/* .top{
+    width: 100%;
+    background-color: #2e2f2f;
+} */
+h3{
+    color: #ededed;
+}
+label{
+    color: #ededed;
+}
+.nav a{
+    color: #ededed;
+    font-weight: 600;
+    font-size: larger;
+}
+.top-r{
+    width: 50%;
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.para{
+    font-size: large;
+    width: 26%;
+    color: #ededed;
+}
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    color: #ededed;
+    font-size: 25px;
+    text-align: center;
+}
+i{
+    font-size: larger;
+}
+.top-i{
+    font-size: 30px;
+    color: #ededed;
+}
+.fa-instagram{
+    color: red;
+}
+.fa-facebook{
+    color: blue;
+}
